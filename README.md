@@ -1,0 +1,1 @@
+# mahjong-ways-1-2
